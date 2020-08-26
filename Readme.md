@@ -23,4 +23,6 @@ TopCat (puede ejecutarse bajo Windows)
 http://www.star.bris.ac.uk/~mbt/topcat/
 
 
+Monitor del Curso : Hernán Darío Guerrero ( hdguerreroc@unal.edu.co )
+
 última actualización Agosto 26 de 2020 11:38
