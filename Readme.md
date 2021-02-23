@@ -1,11 +1,11 @@
 # Readme.md
-Repositorio de datos y software del Curso Técnicas Observacionales 2020- II
+Repositorio de datos y software del Curso Técnicas Observacionales 2021- I
 
 Contenido :
 
 Readme.md  (este archivo)
 
-Presentación del Curso : Archivo PresentacionCurso.pdf  
+Presentación del Curso : Archivo 022321.pdf  
 
 
 Instalación IRAF
