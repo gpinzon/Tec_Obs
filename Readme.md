@@ -5,7 +5,7 @@ Contenido :
 
 Readme.md  (este archivo)
 
-Presentación del Curso : Archivo 022321.pdf  
+Presentación del Curso : Archivo 2021-02-23.pdf  
 
 
 Instalación IRAF
