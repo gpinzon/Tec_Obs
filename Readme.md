@@ -7,7 +7,6 @@ Readme.md  (este archivo)
 
 Presentación del Curso : Archivo PresentacionCurso.pdf  
 
-Módulo I : Archivo comprimido Fourier.zip
 
 Instalación IRAF
 iraf.lnux.x86_64.tar.gz. Este es el archivo principal para la instalacion de IRAF (>25MB) y se puede descargar en este enlace:
@@ -18,11 +17,8 @@ x11iraf-v2.0BETA-bin.linux.tar.gz
 xgterm
 iraf
 
-Otro software necesario :
 TopCat (puede ejecutarse bajo Windows)
 http://www.star.bris.ac.uk/~mbt/topcat/
 
 
-Monitor del Curso : Hernán Darío Guerrero ( hdguerreroc@unal.edu.co )
-
-última actualización Agosto 26 de 2020 11:38
+Última actualización Febrero 23 de 2021 17:52
